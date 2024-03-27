@@ -1,0 +1,90 @@
+/* Tables
+/* ---------------------------------------------------------- */
+
+table {
+  border-collapse: separate;
+  margin: 0 0 var(--margin) 0;
+  width: 100%;
+  font-size: 0.8em;
+  align-content: center;
+  align-items: center;
+}
+
+th {
+  color: var(--color-base);
+  font-size: 0.9em;
+  font-weight: var(--font-bold);
+  padding: 0 0.7em 0.4em 0.7em;
+  text-align: center;
+  width: 0.7em;
+  align-content: center;
+}
+
+td {
+  padding: 0.4em 0em;
+  border-left-width: 0;
+  border-top-width: 0;
+  align-content: center;
+  text-align: center;
+  width: 0.7em;
+}
+
+@media (max-width: 768px) {
+  /* Force table to not be like tables anymore */
+  table,
+  thead,
+  tbody,
+  tfoot,
+  th,
+  td,
+  tr,
+  caption {
+    display: block;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    align-content: center;
+    text-align: center;
+  }
+
+  tr {
+    border: 1px solid #ccc;
+    align-content: center;
+    text-align: center;
+  }
+
+  tbody td {
+    /* Behave  like a "row" */
+    border: none;
+    position: relative;
+    padding-left: 50% !important;
+    align-content: center;
+    text-align: center;
+  }
+
+  tbody td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    align-content: center;
+    text-align: center;
+  }
+
+  /*
+    Label the data
+    */
+  tbody td:before {
+    content: attr(data-heading);
+    align-content: center;
+    text-align: center;
+  }
+}
