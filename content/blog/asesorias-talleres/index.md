@@ -1,8 +1,9 @@
 ---
 title: Asesorías, Talleres y Conferencias Empresariales
-date: "2019-05-03"
+date: "2023-03-22"
 thumbnail: ./dose-juice-1184429-unsplash.jpg
 description: Si estás buscando vincular a tu equipo de trabajo con estas experiencias de bienestar psicológico y emocional, este es el lugar!
+blog: false
 ---
 
 Podemos generar convenios para que tu equipo y su familia acceda a servicios de psicoterapia.

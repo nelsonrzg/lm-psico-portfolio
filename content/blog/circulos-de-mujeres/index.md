@@ -1,8 +1,9 @@
 ---
 title: Círculos de mujeres y talleres vivenciales
-date: "2024-02-10"
+date: "2024-03-23"
 thumbnail: ./charles-deluvio-550068-unsplash.jpg
 description: Permitete compartir un espacio de mujeres en el que se abordan distintos temas de salud mental y bienestar emocional...
+blog: false
 ---
 
 ### ¿Qué son?

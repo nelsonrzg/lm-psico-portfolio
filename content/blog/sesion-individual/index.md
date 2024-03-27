@@ -1,6 +1,6 @@
 ---
-title: Sesión individual
-date: "2024-02-12"
+title: Terapia individual
+date: "2024-03-27"
 thumbnail: ./terapia-psicologica.jpg
 description: Las sesiones de psicoterapia te permiten identificar y validar tus emociones...
 blog: false

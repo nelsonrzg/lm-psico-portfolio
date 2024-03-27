@@ -1,8 +1,9 @@
 ---
-title: Sesión terapia Familiar
-date: "2024-02-10"
+title: Terapia Familiar
+date: "2024-03-24"
 thumbnail: ./cody-davis-253928-unsplash.jpg
 description: Asiste a sesiones de psicoterapia familiar cuando...
+blog: false
 ---
 
 - Quieras identificar, validar y gestionar las emociones de los miembros de la familia

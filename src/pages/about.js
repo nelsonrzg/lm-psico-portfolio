@@ -37,15 +37,18 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">Como psicoterapeuta...</h3>
           <p>
-            Quiero compartir contigo este conocimiento maravilloso que he
-            adquirido y que inició cuando yo misma entendí la carga familiar que
-            me hacía ser quien era. Te doy la bienvenida a este espacio y te
-            felicito por dar este paso importante que te ayudará a entender tu
-            historia, sanar y lograr tu mejor versión.
+          tengo la convicción de que la relación con papá y mamá tiene un impacto significativo en el desarrollo
+          de tu personalidad, en tu autoestima, en tu vida adulta, en tus éxitos y fracasos amorosos y en la forma
+          como ves y percibes la vida y la realidad hoy en día. 
+          </p>
+          <p>
+          Quiero compartir contigo este conocimiento maravilloso que he adquirido y que inició cuando yo misma entendí
+          la carga familiar que me hacía ser quien era. Te doy la bienvenida a este espacio y te felicito por dar este 
+          paso importante que te ayudará a entender tu historia, sanar y lograr tu mejor versión. 
           </p>
           <p>
             Vamos! Te acompaño en este camino que estás a punto de empezar.
-            Trabajaremos juntos en sanar tus heridas emocionales para que así
+            Trabajaremos junt@s en sanar tus heridas emocionales para que así
             puedas enfocarte en tus propósitos de vida. ¿Empezamos?
           </p>
         </div>

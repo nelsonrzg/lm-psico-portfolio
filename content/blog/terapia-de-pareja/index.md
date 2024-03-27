@@ -1,8 +1,8 @@
 ---
-title: Sesión terapia de pareja
-date: "2024-02-10"
+title: Terapia de pareja
+date: "2024-03-26"
 thumbnail: ./cody-davis-253928-unsplash.jpg
-description: Necesitas terapia de pareja si...
+description: en este espacio se busca que la pareja mejore la comunicación en la relación. De esta manera, se aprenderá a controlar los impulsos y emociones para afrontar y resolver los conflictos que puedan surgir de una manera más eficiente...
 blog: false
 ---
 

@@ -2,7 +2,7 @@
 title: ¿Qué es la psicoterapia?
 date: "2024-02-12"
 thumbnail: ./terapia-psicologica.jpg
-description: Las sesiones de psicoterapia te permiten identificar y validar tus emociones... jjjjjjjjjjjjjjjj jjjjj jj j j j j j j j j j j j j jj j tenemos
+description: Las sesiones de psicoterapia te permiten identificar y validar tus emociones...
 blog: true
 read: 3 min de lectura
 ---

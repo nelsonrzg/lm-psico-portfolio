@@ -25,30 +25,35 @@ const FaqPage = ({ data }, location) => {
           </figure>
           <p>
             <h4>¿La consulta es presencial o virtual?</h4>
-            <p>La consulta es 100% virtual.</p>
-
+            <p>La consulta es 100% virtual. Puedes conectarte a tu sesión desde cualquier lugar del mundo. 
+              El lugar donde te encuentras no es un obstáculo para tu proceso.
+            </p>
             <h4>¿Qué horarios manejas?</h4>
             <p>
-              Tengo agenda disponible de Lunes a Viernes de 8am a 7pm Hora
-              Colombia. Ten presente la diferencia horaria con tu país para que
-              puedas estar segur@ de tener disponibilidad en la franja de tiempo
-              que eliges para tu sesión.
+            Mi agenda está disponible de Lunes a Viernes de 8am a 7pm Hora Colombia. La disponibilidad de horas 
+            cada semana depende de los espacios ya agendados por otros consultantes. 
+            Ten presente la diferencia horaria con tu país para que puedas estar segur@ de tener disponibilidad 
+            en la franja de tiempo que eliges para tu sesión. 
             </p>
 
             <h4>¿Qué tipo de enfoque manejas?</h4>
-            <p>Mi enfoque psicológico es humanista-existencial</p>
+            <p>
+            Mi enfoque psicológico es humanista-existencial, esto significa que durante tu proceso estaré muy enfocada en promover tu autoconocimiento, 
+            en que comprendas y aceptes con mucho amor tu propia historia (incluyendo tu historia familiar) y en que esto te permita sanar tus heridas y 
+            alcanzar tu mejor versión.
+            </p>
 
             <h4>¿Cómo es el proceso para agendar una sesión?</h4>
-            <p>El proceso para agendar es el siguiente:</p>
+            <p>Para agendar tus sesiones necesitas:</p>
             <ul>
-              <li>Realizas el pago de la sesión que vas a solicitar</li>
-              <li>Envías el comprobante a la línea whatsapp </li>
-              <li>
-                Me envías los datos que necesito para abrir tu historia y firmas
-                el consentimiento informado
-              </li>
-              <li>Validamos nuestra disponibilidad de agenda</li>
-              <li>Estás list@ para iniciar tu proceso</li>
+              <li>Realizar el pago de la sesión que vas a solicitar</li>
+              <li>Enviar el comprobante a la línea whatsapp </li>
+              <li>Enviar algunos datos personales que necesito para abrir tu historia.</li>
+              <li>Posteriormente deberás firmar el consentimiento informado para procesos psicoterapéuticos que 
+                te enviaré de vuelta a tu número de contacto.</li>
+              <li>Escoger el día y hora de la agenda disponible que te envío para tomar tu sesión. Si pagaste un 
+                paquete de sesiones también puedes agendarlas todas según disponibilidad de horario.</li>
+              <li>Después de estos asuntos administrativos, estás list@ para iniciar tu proceso</li>
             </ul>
 
             <h4>¿Qué medios de pago manejas?</h4>
